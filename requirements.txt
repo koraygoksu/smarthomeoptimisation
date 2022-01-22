@@ -1,0 +1,9 @@
+GAMS =~ 1.7.3
+Microsoft Excel => 2015
+
+for solar radiation data
+python =~ 3.6
+numpy ~= 1.21.4
+DateTime ~= 4.3
+matplotlib ~= 3.5.1
+pysolar ~= 0.10
